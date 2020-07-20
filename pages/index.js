@@ -11,6 +11,7 @@ export default function Home() {
       <main>
         <h1 className="title">
           Hello <a href="https://nextjs.org">Next.js</a>
+          <p>Use Github Action！！</p>
         </h1>
 
         <p className="description">
