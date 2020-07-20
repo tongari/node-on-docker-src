@@ -12,6 +12,7 @@ export default function Home() {
         <h1 className="title">
           Hello <a href="https://nextjs.org">Next.js</a>
           <p>Use Github Action！！</p>
+          <p>Use Firebase on Docker</p>
         </h1>
 
         <p className="description">
